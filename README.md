@@ -21,7 +21,7 @@
 ### 📝 Blog Posts I find inspiring
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick summary on Microsoft’s newly launched initiatives and how you can access them.](https://medium.com/@amefonaffia/quick-summary-on-microsofts-newly-launched-initiatives-and-how-you-can-access-them-68f83e93ff6d?source=rss-927b97076851------2)
+- [You’re an Engineer Be an Engineer](https://duffney.io/youre-an-engineer-be-an-engineer/)
 <!-- BLOG-POST-LIST:END -->
 ### 🖥️ Youtube DevSecOps Playlist
 
@@ -30,6 +30,12 @@
 - [Integrating Container Security Into the DevSecOps Pipeline](https://www.youtube.com/watch?v=4Jd28k3mjrk)
 - [Checkov: Security & Compliance for Your Infrastructure-as-Code](https://www.youtube.com/watch?v=n5EdM-e-9DU)
 <!-- YOUTUBE:END -->
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"]
 
 ##
 [website]: https://codeSTACKr.com
