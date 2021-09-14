@@ -4,6 +4,7 @@
 ## I am an Engineer. 
 
 - 🌱 Exploring Cloud security, Administration and secure DevOps practices.
+- AWS 3x Certified 
 - 👯 Bs. EE. , Ms. Information and Communication Engineering
 - 🥅 2020 Goals: I am looking to contribute more within communities (AWS User Groups, Blacks in CyberSecurity, Open Source). 
 
